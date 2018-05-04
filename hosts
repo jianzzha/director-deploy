@@ -1,0 +1,6 @@
+[undercloud]
+localhost:2222
+# Put your underclouds fully qualified domain name here
+
+[hardware_store]
+# put the hwstore's fqdn here
